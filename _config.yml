@@ -1,6 +1,6 @@
 ---
 url: https://www.emfink.net # the base hostname & protocol for your site
-baseurl: /Presentations # the subpath of your site, e.g. /blog/
+baseurl: /Reveal # the subpath of your site, e.g. /blog/
 title: Presentations
 description:  # leave blank if you don't want to display a description 
 last_updated: 4 September 2020 # leave blank if you don't want to display last updated

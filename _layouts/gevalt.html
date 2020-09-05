@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body class="fullwidth">
+
+	{% include header.html %}
+<div class="gevalt">
+<div class="page-container">
+
+			<div class="gevalt-header group">
+			<h1 class="page-title">{{ page.title }}</h1>
+			</div>
+
+<img src="{{ "/assets/img/benjamin.jpg"  | prepend: site.baseurl }}">
+
+
+
+	{{ content }}
+</div>
+
+
+</div>
+
+
+
+{% include footer.html %}
+{% include hemline.html %}
+
+</body>
+
+</html>

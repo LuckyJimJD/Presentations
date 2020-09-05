@@ -6,5 +6,5 @@ title: Presentations
 ---
 
 {% for Presentation in site.Presentations %}
-<p><a href="{{ Presentation.url }}.html" target="_blank">{{ Presentation.title }}</a></p>
+<p><a href="{{ "{{ Presentation.url }}.html" | prepend: site.baseurl }}">{{ Presentation.title }}</a></p>
 {% endfor %}

@@ -23,19 +23,19 @@ output:
 
 ## Not Guilty
 
-![](/assets/img/LawyerAds/LarryArchie.png)
+![](/Reveal/assets/img/LawyerAds/LarryArchie.png)
 
 *** 
 
 ## Better Call Pete
 
-![](/assets/img/LawyerAds/BetterCallPete1.png) 
+![](/Reveal/assets/img/LawyerAds/BetterCallPete1.png) 
 
 *** 
 
 ## Better Call Pete (Episode 2)
 
-![](/assets/img/LawyerAds/BetterCallPete2.png)
+![](/Reveal/assets/img/LawyerAds/BetterCallPete2.png)
 
 
 *** 
@@ -48,7 +48,7 @@ output:
 
 ## Life's Short
 
-![](/assets/img/LawyerAds/LifeIsShort1.jpg)
+![](/Reveal/assets/img/LawyerAds/LifeIsShort1.jpg)
 
 
 *** 

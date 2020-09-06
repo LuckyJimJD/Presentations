@@ -5,11 +5,11 @@ title: Data Trespass in NC
 author: Eric M. Fink
 institution: Elon Law School 
 
-revealjs-url: '../Presentations/assets/revealjs'
+revealjs-url: '../reveal.js'
 
 output: 
   custom_document:
-    path: DataTrespass.html
+    path: ../DataTrespass.html
     pandoc_args: ["-t", "revealjs", "-s"]
     theme: moon
     incremental: true

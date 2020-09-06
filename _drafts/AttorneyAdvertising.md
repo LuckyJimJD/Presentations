@@ -6,10 +6,11 @@ author: Eric M. Fink
 course: Professional Responsibility
 institution: Elon Law School 
 
+revealjs-url: '../reveal.js'
 
 output: 
   custom_document:
-    path: AttorneyAdvertising.html
+    path: ../AttorneyAdvertising.html
     pandoc_args: ["-t", "revealjs", "-s"]
     incremental: true
     center: true

@@ -6,11 +6,11 @@ subtitle: Demonstrations & Police Encounters
 author: Eric M. Fink 
 institution: Elon Law School 
 
-revealjs-url: '../Presentations/assets/revealjs'
+revealjs-url: '../reveal.js'
 
 output: 
   custom_document:
-    path: KnowYourRights.html
+    path: ../KnowYourRights.html
     pandoc_args: ["-t", "revealjs", "-s"]
     theme: moon
     incremental: true

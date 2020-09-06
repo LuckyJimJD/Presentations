@@ -7,17 +7,16 @@ course: Intro to Law
 institution: Elon University 
 presented: 25 March 2020
 
-revealjs-url: '../Presentations/assets/revealjs'
+revealjs-url: '../reveal.js'
 
 output: 
   custom_document:
-    path: EmploymentLaw.html
+    path: ../EmploymentLaw.html
     pandoc_args: ["-t", "revealjs", "-s"]
     theme: moon
     incremental: true
     center: true
-    
-    
+
 ---
 
 # The Employment Relationship 

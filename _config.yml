@@ -1,9 +1,9 @@
 ---
 url: https://www.emfink.net # the base hostname & protocol for your site
-baseurl: /Reveal # the subpath of your site, e.g. /blog/
+baseurl: /Presentations # the subpath of your site, e.g. /blog/
 title: Presentations
 description:  # leave blank if you don't want to display a description 
-last_updated: 4 September 2020 # leave blank if you don't want to display last updated
+last_updated: 5 September 2020 # leave blank if you don't want to display last updated
 
 name: Eric M. Fink
 position: Associate Professor
@@ -14,12 +14,6 @@ state: North Carolina
 zip: '27401'
 email: efink@elon.edu
 phone: 336-279-9334
-
-collections:
-  Presentations:
-    output: true
-    permalink: /:collection/:title
-
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

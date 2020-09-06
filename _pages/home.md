@@ -6,5 +6,5 @@ title: Presentations
 ---
 
 {% for Presentation in site.data.presentations %}
-<p><a href="{{ "{{ presentation.url }}.html" | prepend: site.baseurl }}">{{ presentation.title }}</a></p>
+<p><a href="https://www.emfink.net/Presentations/{{ presentation.url }}.html" >{{ presentation.title }}</a></p>
 {% endfor %}

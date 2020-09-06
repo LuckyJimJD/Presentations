@@ -2,8 +2,7 @@
  * Solarized Dark theme for reveal.js.
  * Author: Achim Staebler
  */
-@import url(fonts/league-gothic/league-gothic.css);
-@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
+@import url("https://use.typekit.net/viv2jun.css");
 /**
  * Solarized colors by Ethan Schoonover
  */
@@ -16,24 +15,24 @@ html * {
  *********************************************/
 :root {
   --background-color: #002b36;
-  --main-font: Lato, sans-serif;
+  --main-font: adelle-sans, sans-serif;
   --main-font-size: 40px;
   --main-color: #93a1a1;
   --block-margin: 20px;
   --heading-margin: 0 0 20px 0;
-  --heading-font: League Gothic, Impact, sans-serif;
+  --heading-font: adelle-sans-condensed, sans-serif;
   --heading-color: #eee8d5;
   --heading-line-height: 1.2;
   --heading-letter-spacing: normal;
   --heading-text-transform: uppercase;
   --heading-text-shadow: none;
-  --heading-font-weight: normal;
+  --heading-font-weight: 400;
   --heading1-text-shadow: none;
   --heading1-size: 3.77em;
   --heading2-size: 2.11em;
   --heading3-size: 1.55em;
   --heading4-size: 1em;
-  --code-font: monospace;
+  --code-font: lft-etica-mono, monospace;
   --link-color: #268bd2;
   --link-color-hover: #78b9e6;
   --selection-background-color: #d33682;
@@ -44,9 +43,9 @@ html * {
   background-color: #002b36; }
 
 .reveal {
-  font-family: "Lato", sans-serif;
+  font-family: adelle-sans, sans-serif;
   font-size: 40px;
-  font-weight: normal;
+  font-weight: 400;
   color: #93a1a1; }
 
 .reveal ::selection {
@@ -75,11 +74,11 @@ html * {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #eee8d5;
-  font-family: "League Gothic", Impact, sans-serif;
-  font-weight: normal;
+  font-family: adelle-sans-condensed, sans-serif;
+  font-weight: 600;
   line-height: 1.2;
   letter-spacing: normal;
-  text-transform: uppercase;
+  text-transform: none;
   text-shadow: none;
   word-wrap: break-word; }
 
@@ -175,13 +174,13 @@ html * {
   margin: 20px auto;
   text-align: left;
   font-size: 0.55em;
-  font-family: monospace;
+  font-family: lft-etica-mono, monospace;
   line-height: 1.2em;
   word-wrap: break-word;
   box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.15); }
 
 .reveal code {
-  font-family: monospace;
+  font-family: lft-etica-mono, monospace;
   text-transform: none; }
 
 .reveal pre code {
@@ -197,7 +196,7 @@ html * {
   border-spacing: 0; }
 
 .reveal table th {
-  font-weight: bold; }
+  font-weight: 700; }
 
 .reveal table th,
 .reveal table td {

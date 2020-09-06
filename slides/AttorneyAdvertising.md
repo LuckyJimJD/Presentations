@@ -10,10 +10,13 @@ revealjs-url: '../reveal.js'
 
 output: 
   custom_document:
-    path: ../AttorneyAdvertising.html
-    pandoc_args: ["-t", "revealjs", "-s"]
+    path: AttorneyAdvertising.html
+    pandoc_args: ["-s", "-i", "-t", "revealjs"]
+    theme: emf
     incremental: true
     center: true
+    controls: true
+
     
 ---
 
@@ -24,19 +27,19 @@ output:
 
 ## Not Guilty
 
-![](https://www.emfink.net/Presentations/assets/img/LawyerAds/LarryArchie.png)
+![](./assets/img/LawyerAds/LarryArchie.png)
 
 *** 
 
 ## Better Call Pete
 
-![](https://www.emfink.net/Presentations/assets/img/LawyerAds/BetterCallPete1.png) 
+![](./assets/img/LawyerAds/BetterCallPete1.png) 
 
 *** 
 
 ## Better Call Pete (Episode 2)
 
-![](https://www.emfink.net/Presentations/assets/img/LawyerAds/BetterCallPete2.png)
+![](./assets/img/LawyerAds/BetterCallPete2.png)
 
 
 *** 
@@ -49,7 +52,7 @@ output:
 
 ## Life's Short
 
-![](https://www.emfink.net/Presentations/assets/img/LawyerAds/LifeIsShort1.jpg)
+![](./assets/img/LawyerAds/LifeIsShort1.jpg)
 
 
 *** 

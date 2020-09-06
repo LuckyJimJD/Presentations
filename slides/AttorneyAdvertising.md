@@ -1,6 +1,4 @@
 ---
-date: 2020-06-09T13:00:00
-
 title: Attorney Advertising 
 author: Eric M. Fink
 course: Professional Responsibility
@@ -11,13 +9,12 @@ revealjs-url: '../reveal.js'
 output: 
   custom_document:
     path: AttorneyAdvertising.html
-    pandoc_args: ["-s", "-i", "-t", "revealjs"]
+    pandoc_args: ["-t", "revealjs", "-s"]
     theme: emf
     incremental: true
     center: true
     controls: true
 
-    
 ---
 
 # Print Ads 
@@ -27,19 +24,19 @@ output:
 
 ## Not Guilty
 
-![](./assets/img/LawyerAds/LarryArchie.png)
+![](../assets/img/LawyerAds/LarryArchie.png)
 
 *** 
 
 ## Better Call Pete
 
-![](./assets/img/LawyerAds/BetterCallPete1.png) 
+![](../assets/img/LawyerAds/BetterCallPete1.png) 
 
 *** 
 
 ## Better Call Pete (Episode 2)
 
-![](./assets/img/LawyerAds/BetterCallPete2.png)
+![](../assets/img/LawyerAds/BetterCallPete2.png)
 
 
 *** 
@@ -52,7 +49,7 @@ output:
 
 ## Life's Short
 
-![](./assets/img/LawyerAds/LifeIsShort1.jpg)
+![](../assets/img/LawyerAds/LifeIsShort1.jpg)
 
 
 *** 

@@ -1,5 +1,4 @@
 ---
-date: 2020-06-09T13:00:00
 
 title: Employment Law 
 author: Eric M. Fink
@@ -11,11 +10,10 @@ revealjs-url: '../reveal.js'
 
 output: 
   custom_document:
-    path: ../EmploymentLaw.html
+    path: EmploymentLaw.html
     pandoc_args: ["-t", "revealjs", "-s"]
-    theme: moon
-    incremental: true
-    center: true
+    theme: emf
+
 
 ---
 
@@ -49,9 +47,7 @@ A hired worker is an employee if the hiring party has the right to control the m
 
 *** 
 
-## Control Test 
-
-Examples of employer control 
+### Examples of employer control
 
 - Driver uniforms and personal appearance 
 - Specifications and appearance of delivery vehicles 
@@ -215,8 +211,10 @@ Kurtzman v. Applied Analytical
 
 ### Formal Equality   
 
-The at-will presumption is supposed to work both ways: the employer is free to fire the employee, and the employee is free to quit, at any time without needing a good reason. 
+The at-will presumption is supposed to work both ways: 
 
+- The employer is free to fire the employee at any time without needing a good reason. 
+- The employee is likewise free to quit at any time without needing a good reason. 
 - No requirement that either party give advance notice. 
 
 *** 
@@ -225,7 +223,7 @@ The at-will presumption is supposed to work both ways: the employer is free to f
 
 - Contractual restraints
   - Non-compete agreements 
-  - [Repayment obligations](https://www.emfink.net/ElonLaw)
+  - [Repayment obligations](https://www.emfink.net/ElonLaw/assets/pdf/Fink2018.pdf)
 - Market concentration & collusion
   - Mergers 
   - No-poaching agreements 

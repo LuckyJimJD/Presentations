@@ -1,5 +1,4 @@
 ---
-date: 2020-06-09T13:00:00
 
 title: 'Know Your Rights:'
 subtitle: Demonstrations & Police Encounters 
@@ -10,11 +9,10 @@ revealjs-url: '../reveal.js'
 
 output: 
   custom_document:
-    path: ../KnowYourRights.html
+    path: KnowYourRights.html
     pandoc_args: ["-t", "revealjs", "-s"]
-    theme: moon
-    incremental: true
-    center: true
+    theme: emf
+
 
 ---
 
@@ -24,9 +22,8 @@ This is a general overview of issues that may arise in political demonstrations 
 
 # Freedom of Speech & Assembly 
 
-![](/Presentations/assets/img/NLG/GSOdemo7June20.jpg)
+![Image credit: Elon News Network](../assets/img/NLG/GSOdemo7June20.jpg)
 
-###### (Image credit: Elon News Network)
 
 ***
 
@@ -34,11 +31,16 @@ This is a general overview of issues that may arise in political demonstrations 
 
 > Congress shall make no law … abridging the freedom of speech … or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.
 
-- The 1st Amendment protects against restraints on speech and assembly by _government action_. 
 
 ***
 
-### Effect of 1st Amendment 
+## 1st Amendment: Scope
+
+The 1st Amendment protects against restraints on speech and assembly by _government action_. 
+
+***
+
+### 1st Amendment: Effect
 
 Government may not prohibit, restrain, limit, or punish protected 1st Amendment speech or assembly based on the content or subject of the expression, the viewpoint expressed, or the political affiliation or association of the speaker/participants. 
 
@@ -52,19 +54,19 @@ Protected speech includes both verbal and non-verbal expression.
 
 ### Body Language
 
-![](/Presentations/assets/img/NLG/Cash.jpg)
+![](../assets/img/NLG/Cash.jpg)
 
 ***
 
 ### Clothing
 
-![](/Presentations/assets/img/NLG/Trash.jpg)
+![](../assets/img/NLG/Trash.jpg)
 
 ***
 
 ### Conduct
 
-![](/Presentations/assets/img/NLG/Flag.jpg)
+![](../assets/img/NLG/Flag.jpg)
 
 
 *** 
@@ -78,7 +80,7 @@ Government may regulate the time, place, and manner of speech or assembly.
 
 ### Time, Place, & Manner Regulations
 
-Examples: 
+#### Examples: 
 
 - Permits for use of certain public places
 - Noise ordinances & regulations of sound equipment
@@ -139,7 +141,7 @@ These activities may be restricted or prohibited, and may result in arrest:
 
 ## 1st Amendment & the Police 
 
-![](/Presentations/assets/img/NLG/GSOpolice.jpeg)
+![](../assets/img/NLG/GSOpolice.jpeg)
 
 *** 
 
@@ -161,7 +163,7 @@ Even if the police do not provide satisfactory answers, or you believe they are 
 
 # Photographs & Audio-Video Recordings
 
-![](/Presentations/assets/img/NLG/DemoPhotographer.jpg)
+![](../assets/img/NLG/DemoPhotographer.jpg)
 
 *** 
 
@@ -178,6 +180,7 @@ A person who is lawfully present in a public place may photograph or make video 
 - Permission of the person being photographed or recorded is not required. 
 	- Many people do not understand this and may object that photographing or recording them without their permission is a violation of their privacy or other legal rights. 
 - It is unlawful for any person to use physical force to stop you from taking photographs or recordings in a public place.
+- But be aware that photographs and recordings may be used as evidence against demonstrators in criminal or civil cases. 
 
 *** 
 
@@ -215,7 +218,11 @@ The police may lawfully order you to cease activity, including photography or vi
 
 ## Police Questioning 
 
-In general, a police officer may lawfully ask you questions at any time, without having to demonstrate reasonable suspicion or probable cause. If you speak to a law enforcement officer, your statements may be used against you and others. It is a criminal offense to provide false information to a police officer.
+In general, a police officer may lawfully ask you questions at any time, without having to demonstrate reasonable suspicion or probable cause. 
+
+If you speak to a law enforcement officer, your statements may be used against you and others. 
+
+It is a criminal offense to provide false information to a police officer.
 
 ***
 
@@ -245,7 +252,9 @@ You may not lawfully be arrested or punished for failing or refusing to answer p
 
 ### Right to Counsel 
 
-Police officers may try to pressure or persuade you to speak to them without a consulting a lawyer. Bear in mind that the police are legally permitted to lie to you. 
+Police officers may try to pressure or persuade you to speak to them without a consulting a lawyer. 
+
+Bear in mind that the police are legally permitted to lie to you. 
   
 ***
 
@@ -365,8 +374,3 @@ You have the right to appear before a judge or magistrate within a reasonable ti
 	- You have a right to be represented by a lawyer at this and all other court appearances. 
 	- If you can’t afford a lawyer, you have a right to be represented at no cost by a public defender or other court-appointed lawyer. 
 
-***
-
-# Credits 
-
-Photos by [Anthony Crider](https://www.flickr.com/photos/acrider/albums)

@@ -1,5 +1,4 @@
 ---
-date: 2020-06-09T13:00:00
 
 title: Data Trespass in NC
 author: Eric M. Fink
@@ -9,11 +8,10 @@ revealjs-url: '../reveal.js'
 
 output: 
   custom_document:
-    path: ../DataTrespass.html
+    path: DataTrespass.html
     pandoc_args: ["-t", "revealjs", "-s"]
-    theme: moon
-    incremental: true
-    center: true
+    theme: emf
+
     
 ---
 
